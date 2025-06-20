@@ -11,7 +11,7 @@ const Home = () => {
     <div>
       <h1>Welcome to My Fleet App</h1>
       <p>This is the home page.</p>
-      <MetarData />
+      <MetarData station="LTBD" />
     </div>
   );
 };
